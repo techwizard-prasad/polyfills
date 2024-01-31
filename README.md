@@ -15,6 +15,6 @@ In this repository, I have created polyfills of some basic javascript functions 
 9. lodash.cloneDeep
 
 Polyfill is also a wellknown interview question, so feel free to go through the code. You can create a pull request if you feel you can contribute further in the repository.
-You can see the code for each of them in `/src`` folder.
+You can see the code for each of them in `/src` folder.
 
 To run the code, run `npm run dev` > Select which polyfill you want to run by entering respective number
