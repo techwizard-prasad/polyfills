@@ -1,0 +1,14 @@
+{
+  "name": "polyfills",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.13"
+  },
+  "author": "",
+  "license": "ISC"
+}
